@@ -1,5 +1,7 @@
 streamlit
 pandas
-transformers
-tensorflow==2.16.1
+transformers>=4.57.1
+
+tensorflow>=2.20.0
+
 pickle-mixin
