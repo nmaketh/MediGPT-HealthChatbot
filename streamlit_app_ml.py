@@ -13,6 +13,9 @@ import random
 import re
 from typing import Tuple
 import numpy as np
+import tf_keras as keras
+from tf_keras.models import load_model
+
 
 # --- Configuration for TensorFlow and Tokenizers ---
 # Fix for Keras 3 incompatibility with Hugging Face TF models
