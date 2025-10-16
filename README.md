@@ -81,7 +81,7 @@ streamlit run streamlit_app.py
 
 
 The application will open in your default web browser (usually at http://localhost:8501).
-STREAMLIT DEPLOYMENT SUCCESSFULLY:https://organic-halibut-x5wqr4x4pwggcp7w5-8501.app.github.dev/
+STREAMLIT DEPLOYMENT SUCCESSFULLY:(https://medigpt-healthchatbot-mzvzqubj9b5kmxzckjdwzj.streamlit.app/)
 
 🎥 Demonstration Video
 
